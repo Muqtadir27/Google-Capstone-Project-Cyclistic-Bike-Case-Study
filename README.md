@@ -8,7 +8,7 @@ Who the riders are,
 
 How they use the service, and
 
-What patterns or preferences exist between different user types.
+What patterns or preferences exist between different user types?
 
 This analysis leverages real-world data (from Divvy) to derive actionable insights that can drive business decisions and marketing strategies.
 
@@ -20,9 +20,9 @@ How do annual members and casual riders use Cyclistic bikes differently?
 The main objective is to analyze user behavior and generate data-driven recommendations that the marketing team can use to convert casual riders into annual members. This involves segmenting users, identifying usage trends, and pinpointing differences that can inform personalized campaigns and service improvements.
 
 ### 🔍 Data Source ###
-The data for this case study comes from Divvy’s public trip data, which contains detailed records of bike trips taken using the Cyclistic system.
+The data for this case study comes from Divvy’s public trip data, which contains detailed records of bike trips taken using the Divvy system.
 
-Time Period: January 2022 to December 2022
+Period: January 2022 to December 2022
 
 Format: CSV files, one for each month
 
@@ -110,7 +110,7 @@ Station-level analysis reveals opportunities to optimize bike availability for e
 
 Launch weekend and summer-focused campaigns to attract casual riders.
 
-Highlight benefits of annual membership like cost savings, unlimited rides, and convenience in messaging.
+Highlight the benefits of annual membership, like cost savings, unlimited rides, and convenience in messaging.
 
 #### Incentive & Loyalty Programs ####
 
