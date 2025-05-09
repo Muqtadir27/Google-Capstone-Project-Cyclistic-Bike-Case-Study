@@ -80,9 +80,7 @@ Developed targeted recommendations to enhance marketing strategy and improve use
 
 Suggested actions based on data-backed conclusions.
 
-
-
-
+![Image](https://github.com/user-attachments/assets/ee8a68c7-cfd8-4d2d-b235-f4302f5eabb4)
 
 ## 📊 Key Findings ##
 #### Usage Patterns ####
