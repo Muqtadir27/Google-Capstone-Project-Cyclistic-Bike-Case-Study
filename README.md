@@ -134,10 +134,9 @@ Highlight how much money/time a casual rider could save by upgrading
 This capstone demonstrates the power of clean, structured analysis and visual storytelling in making strategic business decisions. By leveraging real ride data, Cyclistic can better target its marketing efforts and enhance user retention through thoughtful engagement strategies.        
 
 ## 📧 Contact         
-Mohammed Abdul Muqtadir     
-
-🌐 GitHub: Nuqtadir27 
-📫 Email: abdulmuqtadir1027@gmail.com            
+Mohammed Abdul Muqtadir      
+🌐 GitHub: Nuqtadir27                    
+📫 Email: abdulmuqtadir1027@gmail.com                
 
 ## ❤️ Acknowledgments
 Google Data Analytics Professional Certificate      
