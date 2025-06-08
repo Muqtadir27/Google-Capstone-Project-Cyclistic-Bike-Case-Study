@@ -81,7 +81,12 @@ Interactive dashboards built in Power BI
 Stakeholder-friendly PDF report with visuals and key takeaways           
 
 6. ✅ Act
-Developed 3 core recommendation areas: marketing, loyalty, and operational optimization      
+Developed 3 core recommendation areas: marketing, loyalty, and operational optimization
+
+
+![Image](https://github.com/user-attachments/assets/1f5bfd43-d857-4906-9ade-8dd587d482fc)
+
+
 
 ## 📈 Key Findings     
 🗓️ Usage Patterns           
