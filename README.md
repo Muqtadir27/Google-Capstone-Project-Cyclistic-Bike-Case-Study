@@ -1,132 +1,145 @@
-# 🚴 Google Data Analytics Capstone Project: Cyclistic Bike-Share Case Study #
-Welcome to the capstone project for the Google Data Analytics Professional Certificate. This case study explores ride data from Cyclistic, a fictional bike-share company based in Chicago. The goal of this project is to perform a comprehensive analysis of how casual riders and annual members use the service differently. Based on these insights, strategic recommendations are made to help the company increase annual memberships.
+# 🚴 Google Data Analytics Capstone Project: Cyclistic Bike-Share Case Study
+
+## 🚀 Overview
+This project is part of the Google Data Analytics Professional Certificate Capstone. It explores how different user groups—casual riders and annual members—use the Cyclistic bike-share system in Chicago. The objective is to analyze usage patterns and generate strategic, data-driven recommendations to convert casual riders into loyal annual members.
 
 ![Image](https://github.com/user-attachments/assets/b6199673-5ac6-4677-82ae-875572f5bc04)
 
-## 📌 Project Overview ##
-Cyclistic operates a successful bike-sharing program offering two types of user plans: casual (pay-as-you-go) and annual memberships. As the company’s marketing team aims to boost the number of long-term customers, it becomes vital to understand:
 
-Who the riders are,
+## 🔗 Final Visualization Tool: Power BI
+📁 Dataset: Divvy Public Bike Trip Data (Jan–Dec 2022)
 
-How they use the service, and
+## 🌟 Features
+🔍 Comparative analysis of casual vs. member riders
+🕒 Ride frequency and duration insights
+📅 Seasonal and time-of-day patterns
+📊 Power BI dashboards for visual storytelling
+💼 Strategic marketing and service recommendations
 
-What patterns or preferences exist between different user types?
 
-This analysis leverages real-world data (from Divvy) to derive actionable insights that can drive business decisions and marketing strategies.
-
-## 🧭 Business Task ##
-Key Question
+## 🧭 Business Task
+### 🎯 Objective:
 How do annual members and casual riders use Cyclistic bikes differently?
+The analysis aims to help the Cyclistic marketing team design campaigns that convert casual users into members by understanding key behavioral patterns.
 
-### Business Objective ###
-The main objective is to analyze user behavior and generate data-driven recommendations that the marketing team can use to convert casual riders into annual members. This involves segmenting users, identifying usage trends, and pinpointing differences that can inform personalized campaigns and service improvements.
+## 🗂️ Data Source
+📆 Timeframe: January 2022 – December 2022
+📄 Format: 12 monthly CSV files
+🧩 Variables: Start/end times, bike type, ride duration, station data, user type
+✅ PII: Fully anonymized and public
+🔗 Divvy Trip Data Source (via Chicago’s Open Data Portal)
 
-### 🔍 Data Source ###
-The data for this case study comes from Divvy’s public trip data, which contains detailed records of bike trips taken using the Divvy system.
+## 🛠️ Tools & Technologies
+Microsoft Excel — Initial data wrangling, merging, and cleaning
+Power BI — Advanced visualizations and dashboards
+PDF Report — Final documentation with findings and recommendations
+💡 Tools were chosen to align with the course's focus on accessible, business-ready tools for analysts.
 
-Period: January 2022 to December 2022
 
-Format: CSV files, one for each month
+## 📂 Project Structure
 
-Content: Trip start and end times, bike types, start/end stations, user types, and more
+```
+Copy
+Edit
+.
+├── data/                       # Monthly CSV files (Jan–Dec 2022)
+├── cleaned_data.xlsx           # Combined & cleaned dataset
+├── Cyclistic_Report.pdf        # Final PDF report with analysis and recommendations
+├── power_bi_dashboard.pbix     # Power BI file with visuals and filters
+└── README.md                   # This documentation
 
-Note: All personally identifiable information (PII) has been removed or anonymized to comply with privacy regulations.
+```
+🔎 Analysis Process
+Following Google’s 6-step data analysis process:
 
-## 🛠️ Tools and Technologies ##
-Microsoft Excel: Used for data cleaning, wrangling, and initial exploration.
+1. 🧠 Ask
+Define core question: How do annual members and casual riders differ?
+Identify measurable outcomes: duration, time, bike type, location, frequency
 
-Power BI: Employed for building rich, interactive visualizations that illustrate user trends and insights.
+2. 📥 Prepare
+Collected and reviewed 12 monthly CSV files
+Combined data into a single master dataset
+Verified structure and variable consistency
 
-PDF Report: Final report documenting the entire process, findings, and recommendations.
+3. 🧹 Process
+Cleaned missing/null values
+Removed duplicates
+Engineered features:
+Ride duration
+Day of week
+Time of day
+Ride category (commute vs leisure)
 
-These tools provided an accessible and efficient environment to handle large datasets and communicate insights effectively.
+4. 📊 Analyze
+Summary statistics by user type
+Usage patterns by weekday, hour, and season
+Bike type and station preferences
+Comparative graphs in Power BI
 
-## 📈 Analysis Process ##
-The analysis followed the six-step data analysis framework taught in the Google certification course:
+5. 📢 Share
+Interactive dashboards built in Power BI
+Stakeholder-friendly PDF report with visuals and key takeaways
 
-#### Ask: ####
+6. ✅ Act
+Developed 3 core recommendation areas: marketing, loyalty, and operational optimization
 
-Defined the problem clearly and established specific goals for the analysis.
+## 📈 Key Findings
+🗓️ Usage Patterns
+Members ride more consistently across all weekdays
+Casual users peak on weekends → leisure/tourist behavior
 
-Focused on identifying differences in usage patterns between casual riders and members.
 
-#### Prepare: ####
+⏱️ Ride Duration
+Casual riders average longer ride durations
+Members show shorter, frequent rides → commuting patterns
 
-Collected monthly CSV files and combined them into a single dataset for the year.
 
-Validated data integrity and confirmed relevant variables were available.
 
-#### Process: ####
+🕰️ Time & Seasonality
+Casual riders are most active afternoons & evenings
+Peak activity during summer months
+Members ride consistently throughout the year
 
-Cleaned the dataset by removing duplicates, fixing date formats, and handling missing/null values.
 
-Engineered new features like ride duration, day of the week, and time of day for deeper insights.
 
-#### Analyze: ####
+📍 Popular Stations & Routes
+Casuals favor scenic or downtown routes
+Members often start/end rides near business hubs and transit stops
 
-Performed descriptive statistics and pattern recognition.
 
-Compared user behaviors based on ride length, frequency, and usage days.
 
-Identified popular routes and preferred bike types per user group.
+## 💡 Recommendations
+🎯 Targeted Marketing Campaigns
+Promote memberships during peak tourist seasons
+Use messaging that emphasizes:
+Cost savings
+Unlimited rides
+Convenience for commuting
 
-#### Share: ####
 
-Created dynamic and informative dashboards using Power BI.
+🎁 Incentive Programs
+Launch “try membership” options or trial weekends
+Offer loyalty rewards or discounts to frequent casual riders
+🛠️ Service Enhancements
+Add bikes/stations near high-demand casual zones
+Optimize service for member-heavy stations (commute support)
 
-Highlighted key differences visually for stakeholder presentation.
 
-#### Act: ####
+📬 Personalized Engagement
+Use ride history to send targeted in-app offers
+Highlight how much money/time a casual rider could save by upgrading
 
-Developed targeted recommendations to enhance marketing strategy and improve user retention.
 
-Suggested actions based on data-backed conclusions.
+## 🏁 Conclusion
+This capstone demonstrates the power of clean, structured analysis and visual storytelling in making strategic business decisions. By leveraging real ride data, Cyclistic can better target its marketing efforts and enhance user retention through thoughtful engagement strategies.
 
-![Image](https://github.com/user-attachments/assets/1f5bfd43-d857-4906-9ade-8dd587d482fc)
+## 📧 Contact
+Mohammed Abdul Muqtadir
 
-## 📊 Key Findings ##
-#### Usage Patterns ####
+🌐 GitHub: Nuqtadir27
+📫 Email: abdulmuqtadir1027@gmail.com
 
-Annual members tend to use bikes more consistently throughout the week, indicating commuting or habitual usage.
-
-Casual riders show peak activity during weekends, suggesting recreational use.
-
-#### Ride Duration ####
-
-Casual riders generally take longer rides on average than members, potentially due to leisure rather than efficiency.
-
-#### Time of Day & Seasonality ####
-
-Casual riders are more active during afternoons and evenings, especially in summer months, aligning with tourist activity.
-
-Annual members display steadier patterns across all months, reflecting year-round utility.
-
-#### Popular Routes and Stations ####
-
-Several high-traffic routes are predominantly used by casual riders, signaling high marketing potential zones.
-
-Station-level analysis reveals opportunities to optimize bike availability for each user type.
-
-## 💡 Strategic Recommendations ##
-#### Targeted Marketing Campaigns ####
-
-Launch weekend and summer-focused campaigns to attract casual riders.
-
-Highlight the benefits of annual membership, like cost savings, unlimited rides, and convenience in messaging.
-
-#### Incentive & Loyalty Programs ####
-
-Offer limited-time discounts or loyalty points for frequent casual users.
-
-Introduce a “try-before-you-buy” plan allowing casual riders to test membership features.
-
-#### Service Enhancements ####
-
-Ensure bike availability in high-demand casual zones to improve satisfaction.
-
-Optimize station placement and maintenance in areas showing strong seasonal activity.
-
-#### Personalized Engagement ####
-
-Use ride history to send personalized emails or app notifications encouraging conversion.
-
+## ❤️ Acknowledgments
+Google Data Analytics Professional Certificate
+Chicago Divvy Bike System for open data
+Tools: Excel, Power BI, and good storytelling!
