@@ -1,6 +1,8 @@
 # 🚴 Google Data Analytics Capstone Project: Cyclistic Bike-Share Case Study #
 Welcome to the capstone project for the Google Data Analytics Professional Certificate. This case study explores ride data from Cyclistic, a fictional bike-share company based in Chicago. The goal of this project is to perform a comprehensive analysis of how casual riders and annual members use the service differently. Based on these insights, strategic recommendations are made to help the company increase annual memberships.
 
+![Image](https://github.com/user-attachments/assets/b6199673-5ac6-4677-82ae-875572f5bc04)
+
 ## 📌 Project Overview ##
 Cyclistic operates a successful bike-sharing program offering two types of user plans: casual (pay-as-you-go) and annual memberships. As the company’s marketing team aims to boost the number of long-term customers, it becomes vital to understand:
 
@@ -79,7 +81,7 @@ Highlighted key differences visually for stakeholder presentation.
 Developed targeted recommendations to enhance marketing strategy and improve user retention.
 
 Suggested actions based on data-backed conclusions.
-![Image](https://github.com/user-attachments/assets/b6199673-5ac6-4677-82ae-875572f5bc04)
+
 ![Image](https://github.com/user-attachments/assets/1f5bfd43-d857-4906-9ade-8dd587d482fc)
 
 ## 📊 Key Findings ##
