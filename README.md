@@ -86,6 +86,7 @@ Developed 3 core recommendation areas: marketing, loyalty, and operational optim
 
 ![Image](https://github.com/user-attachments/assets/1f5bfd43-d857-4906-9ade-8dd587d482fc)
 
+>Dashboard depicting all the required information, Used for decision making
 
 
 ## 📈 Key Findings     
