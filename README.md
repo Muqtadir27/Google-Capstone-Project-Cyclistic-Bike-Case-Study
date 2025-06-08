@@ -1,7 +1,7 @@
 # 🚴 Google Data Analytics Capstone Project: Cyclistic Bike-Share Case Study
 
 ## 🚀 Overview
-This project is part of the Google Data Analytics Professional Certificate Capstone. It explores how different user groups—casual riders and annual members—use the Cyclistic bike-share system in Chicago. The objective is to analyze usage patterns and generate strategic, data-driven recommendations to convert casual riders into loyal annual members.
+This project is part of the Google Data Analytics Professional Certificate Capstone. It explores how different user groups—casual riders and annual members—use the Citi Bike share system in Chicago. The objective is to analyze usage patterns and generate strategic, data-driven recommendations to convert casual riders into loyal annual members.
 
 ![Image](https://github.com/user-attachments/assets/b6199673-5ac6-4677-82ae-875572f5bc04)             
 
@@ -10,7 +10,7 @@ This project is part of the Google Data Analytics Professional Certificate Capst
 📁 Dataset: Divvy Public Bike Trip Data (Jan–Dec 2022)               
 
 ## 🌟 Features
-🔍 Comparative analysis of casual vs. member riders
+🔍 Comparative analysis of casual vs. member riders                 
 🕒 Ride frequency and duration insights          
 📅 Seasonal and time-of-day patterns         
 📊 Power BI dashboards for visual storytelling           
