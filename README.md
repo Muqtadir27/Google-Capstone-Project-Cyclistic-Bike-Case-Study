@@ -79,8 +79,8 @@ Highlighted key differences visually for stakeholder presentation.
 Developed targeted recommendations to enhance marketing strategy and improve user retention.
 
 Suggested actions based on data-backed conclusions.
-
-![Image](https://github.com/user-attachments/assets/ee8a68c7-cfd8-4d2d-b235-f4302f5eabb4)
+![Image](https://github.com/user-attachments/assets/b6199673-5ac6-4677-82ae-875572f5bc04)
+![Image](https://github.com/user-attachments/assets/1f5bfd43-d857-4906-9ade-8dd587d482fc)
 
 ## 📊 Key Findings ##
 #### Usage Patterns ####
